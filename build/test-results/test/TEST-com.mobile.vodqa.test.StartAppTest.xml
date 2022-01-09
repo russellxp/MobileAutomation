@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mobile.vodqa.test.StartAppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-04T01:06:05" hostname="Error505.local" time="12.583">
+  <properties/>
+  <testcase name="Test that performs the login" classname="com.mobile.vodqa.test.StartAppTest" time="12.583"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jan 03, 2022 8:06:05 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
